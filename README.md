@@ -1,2 +1,2 @@
 # Test
-only test
+*only test*
